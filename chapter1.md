@@ -8,7 +8,7 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
         <td>石本利</td>
         <td>性    别：</td>
         <td>男</td>
-        <td rowspan="2">内容</td>
+        <td rowspan="5"><img src="assets/photos.png"/></td>
     </tr>
     <tr>
         <td>出生日期：</td>
