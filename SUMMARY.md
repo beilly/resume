@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [关于](README.md)
 * [基本信息](基本信息.md)
 
