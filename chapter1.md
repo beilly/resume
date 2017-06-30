@@ -4,11 +4,11 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 
 <table>
     <tr>
-        <td>姓    名：</td>
+        <td >姓    名：</td>
         <td>石本利</td>
         <td>性    别：</td>
         <td>男</td>
-        <td colspan="2"><img src="assets/photos.png"/></td>
+        <th colspan="2">内容</th>
     </tr>
     <tr>
         <td>出生日期：</td>
